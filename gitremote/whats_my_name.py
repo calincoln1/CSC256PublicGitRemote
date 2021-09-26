@@ -1,5 +1,5 @@
 def my_name_is():
-    return "Joseph"
+    return "Bingo"
 
 
 # palaheel76 doesn't want any comments
